@@ -1,6 +1,4 @@
-# loxscript_mbf
-
-<h2>INSTALLATION SCRIPT<h2>
+<h2>Install loxscript_mbf<h2>
 
 apt install python3<br>
 pip3 install -r requirements.txt<br>
